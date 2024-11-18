@@ -47,7 +47,7 @@ backend/
 ├── routes/             # API route definitions
 ├── utils/              # Utility functions (e.g., database connection)
 ├── .env                # Environment variables
-└── server.js           # Entry point of the application
+└── index.js           # Entry point of the application
 ```
 
 ## Available Endpoints
