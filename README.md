@@ -57,18 +57,18 @@ Method  |   Endpoint  |     Description	                |   Auth Required
 POST    |   /register |	    Register a new user         |   No
 POST    |   /login    |     Login and retrieve a token	|   No
 ```
-#Protected Example
+## Protected Example
 ```
 Method  |   Endpoint  |     Description         |	Auth Required
 GET	    |   /protected|     Example of a route	|   Yes
 ```
-#Features to Customize
+## Features to Customize
 Add additional models for your application in models/.
 Extend the API routes in routes/ with new features.
 Improve error handling and logging based on your project needs.
 
-#Contributing
+## Contributing
 Feel free to fork this repository and make your contributions. Open a pull request to submit changes.
 
-#License
+## License
 This project is licensed under the MIT License.
