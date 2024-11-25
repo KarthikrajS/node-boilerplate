@@ -13,7 +13,7 @@ Secure Routes: Middleware (protect) to guard protected routes.
 ## Getting Started
 ## Clone the Repository
 ```
-npx degit KarthikrajS/backend-boilerplate my-backend
+npx degit KarthikrajS/node-boilerplate my-backend
 cd my-backend
 ```
 ## Install Dependencies
